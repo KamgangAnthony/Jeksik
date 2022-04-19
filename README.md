@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeksik
+- 👋 Hi, I’m Anthony
 - 👀 I’m interested in analysing data and making predictions to help people and businesses.
 - 🌱 I’m currently mastering how to do so and am looking to collaborate on any interesting project you have.
 - 📫 How to reach me kamganganthony@gmail.com
